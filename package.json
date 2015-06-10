@@ -1,0 +1,26 @@
+{
+  "name": "jenkin-test",
+  "version": "0.0.1",
+  "description": "test jenkin program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vehas/jenkin-test.git"
+  },
+  "keywords": [
+    "jenkin"
+  ],
+  "author": "vehas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vehas/jenkin-test/issues"
+  },
+  "homepage": "https://github.com/vehas/jenkin-test#readme",
+  "dependencies": {
+    "express": "^4.12.4",
+    "mocha": "^2.2.5"
+  }
+}
